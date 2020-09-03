@@ -1,11 +1,12 @@
-import React from 'react';
-import logo from './logo.svg';
+import React, { Component } from 'react';
+//import logo from './logo.svg';
 import { Navbar, NavbarBrand } from 'reactstrap';
 import Menu from './components/MenuComponent';
+// import Dishdetail from 'DishdetailComponent';
 import './App.css';
 import { DISHES } from './shared/dishes';
 
-class App extends React.Component {
+class App extends Component {
 
   constructor(props) {
     super(props);
@@ -24,6 +25,9 @@ class App extends React.Component {
           </div>
         </Navbar>
         <Menu dishes = {this.state.dishes}/>
+        {/* <Dishdetail dishes = {this.state.dishes}/> */}
+
+        
       </div>
     );
   }
