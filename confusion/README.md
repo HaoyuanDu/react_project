@@ -1,3 +1,7 @@
+## to run this project, Configuring the Server first
+go to the json server folder, run:
+### json-server --watch db.json -p 3001 -d 2000
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
