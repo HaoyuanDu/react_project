@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react_project/confusion/static/css/main.291b3e21.chunk.css",
+    "main.css": "/react_project/confusion/static/css/main.521d1e65.chunk.css",
     "main.js": "/react_project/confusion/static/js/main.3d05ac01.chunk.js",
     "main.js.map": "/react_project/confusion/static/js/main.3d05ac01.chunk.js.map",
     "runtime-main.js": "/react_project/confusion/static/js/runtime-main.5f5e488d.js",
@@ -9,10 +9,10 @@
     "static/js/2.e6e646f7.chunk.js": "/react_project/confusion/static/js/2.e6e646f7.chunk.js",
     "static/js/2.e6e646f7.chunk.js.map": "/react_project/confusion/static/js/2.e6e646f7.chunk.js.map",
     "index.html": "/react_project/confusion/index.html",
-    "precache-manifest.b5043e11bb3565069460377b7b796871.js": "/react_project/confusion/precache-manifest.b5043e11bb3565069460377b7b796871.js",
+    "precache-manifest.cea0ebf85f9900a71f8056ea22220145.js": "/react_project/confusion/precache-manifest.cea0ebf85f9900a71f8056ea22220145.js",
     "service-worker.js": "/react_project/confusion/service-worker.js",
     "static/css/2.c09209d9.chunk.css.map": "/react_project/confusion/static/css/2.c09209d9.chunk.css.map",
-    "static/css/main.291b3e21.chunk.css.map": "/react_project/confusion/static/css/main.291b3e21.chunk.css.map",
+    "static/css/main.521d1e65.chunk.css.map": "/react_project/confusion/static/css/main.521d1e65.chunk.css.map",
     "static/js/2.e6e646f7.chunk.js.LICENSE.txt": "/react_project/confusion/static/js/2.e6e646f7.chunk.js.LICENSE.txt",
     "static/media/font-awesome.css": "/react_project/confusion/static/media/fontawesome-webfont.fee66e71.woff"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.5f5e488d.js",
     "static/css/2.c09209d9.chunk.css",
     "static/js/2.e6e646f7.chunk.js",
-    "static/css/main.291b3e21.chunk.css",
+    "static/css/main.521d1e65.chunk.css",
     "static/js/main.3d05ac01.chunk.js"
   ]
 }
