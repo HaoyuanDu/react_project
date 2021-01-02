@@ -277,6 +277,14 @@
       "comment": "taste good.",
       "date": "2020-12-20T18:13:27.375Z",
       "id": 21
+    },
+    {
+      "dishId": 1,
+      "rating": "3",
+      "author": "Alex",
+      "comment": "Thats the most beautiful thing~",
+      "date": "2021-01-02T04:08:03.737Z",
+      "id": 22
     }
   ],
   "promotions": [
