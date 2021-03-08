@@ -285,6 +285,22 @@
       "comment": "Thats the most beautiful thing~",
       "date": "2021-01-02T04:08:03.737Z",
       "id": 22
+    },
+    {
+      "dishId": 0,
+      "rating": "5",
+      "author": "Alex",
+      "comment": "Too good to be true!",
+      "date": "2021-01-07T19:53:05.693Z",
+      "id": 23
+    },
+    {
+      "dishId": 0,
+      "rating": "5",
+      "author": "Alex",
+      "comment": "Too good to be true!",
+      "date": "2021-01-07T19:53:07.718Z",
+      "id": 24
     }
   ],
   "promotions": [
@@ -362,6 +378,11 @@
       "firstname": "haoyuan",
       "date": "2020-12-18T21:06:18.911Z",
       "id": 4
+    },
+    {
+      "firstname": "Haoyuan",
+      "date": "2021-01-10T21:57:32.024Z",
+      "id": 5
     }
   ]
 }
